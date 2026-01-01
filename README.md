@@ -30,6 +30,8 @@ Deadline tracking
 
 Created & Updated timestamps
 
+<img width="1920" height="937" alt="Screenshot 2026-01-01 102409" src="https://github.com/user-attachments/assets/a04aa54f-b0dc-4a5a-a871-0c56f9c40d2e" />
+
 🔎 Search & Filters
 
 Search by title / description
